@@ -5,7 +5,7 @@ I'm a seasoned developer specializing in crafting Mobile Apps tailored for small
 
 Skills: HTML / CSS / Tailwind CSS / React Native / ReactJS / Javascript / NodeJS / Express / Firebase
 
-- 🔭 I’m currently working on React Native and Typescript 
+- 🔭 I’m currently working on Framer Motion
 - 📫 How to reach me: zumarsaeed17@gmail.com 
 
 
