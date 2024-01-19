@@ -2,7 +2,7 @@
 #### Full Stack Developer
 I'm a seasoned developer specializing in crafting Mobile Apps tailored for small and medium-sized businesses. Whether you aim to secure contracts, showcase your services, or establish an online store, I'm here to assist you.
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h4> 👨🏻‍💻 About Me </h4>
 
 - 🔭 &nbsp; I’m currently learning React Native and Animations for Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -10,7 +10,7 @@ I'm a seasoned developer specializing in crafting Mobile Apps tailored for small
 - 💼 &nbsp; Full-Stack developer.
 - 📫 &nbsp; How to reach me: zumarsaeed17@gmail.com
 
-<h3>🛠 Skills</h3>
+<h4>🛠 Skills</h4>
 
 - 💻 &nbsp; JavaScript | React | React Native
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Tailwind | Material UI | Typescript | NodeJS | Express
@@ -18,6 +18,14 @@ I'm a seasoned developer specializing in crafting Mobile Apps tailored for small
 - 🔧 &nbsp; Visual Studio code  | Git
 - 🖥 &nbsp; Figma | Slack | Shotcut
 
+<h4> 🤝🏻 Connect with Me </h4>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ItsZumar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zumar-saeed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zumarsaeed)  
+<p align="center">
+&nbsp; <a href="https://twitter.com/zumarsaeed" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/zumar-saeed/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+</p>
+
+⭐️ From [ItsZumar](https://github.com/ItsZumar)
+
+
 
